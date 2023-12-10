@@ -24,5 +24,16 @@ so above information will provide outlier of this project.
    * first we need data for any data science and analyst project. so, first step to collect data. in our case, data easily available as csv format. you will see that in my repository. so we dont want to collect from database using sql,mongodb etc,or webscraping using selenium, beautifulsoup, or Api or opensources or companies websites...
    * after colleting, next step to be preprocessing, it is actual challenging task, why challenging means, now you want do some cleaning work. you want to clean, manipulate,
       transformation etc.. its essential for project
+   * Now, We going to collect the insights from real-estate historical data. if you know python, you trying to data scientist roles, you do analysis using python. required python libraries are pandas ,numpy , matplotlib, seaborn, plotly(optional) - for data analysis & scikit-learn,xgboost,tensorflow for datascience project. which level you want based on that stop project 
+   * statistical and analytical thinking is more important. that will help you to do analysis. consider Analysis Focus on problem or goal . for that make a questions , find a answers from data by visualization&analysis etc..
+   * so exploratory data analysis completed . if you go futhur like machine learning , follow upcoming steps else move to conclusion or interpretation
+   * statistical,analysis and machine learning model building and evaluation and deploy the model
+   * Deployment - as APi, as website, etc...
+   * conclusion - data interpretation(finalize thoughts from analysis)
+
+### requirements:
+   * install python
+           https://www.python.org/downloads/
+   *  
 
 
