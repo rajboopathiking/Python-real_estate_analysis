@@ -35,16 +35,17 @@ so above information will provide outlier of this project.
 ## requirements:
    * install python - 
            https://www.python.org/downloads/
-   ### jupyter
+   * jupyter
+     
          pip install jupyter
    * launch jupyter lab
-     #
+     
            jupyter lab
    * launch jupyter notebook
-     #
+     
           jupyter notebook
    * requirements
-      #
+      
            pip install -r requirements.txt
  ## project:
    ![ALT TEXT](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
