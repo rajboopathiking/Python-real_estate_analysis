@@ -36,6 +36,6 @@ so above information will provide outlier of this project.
    * install python - 
            https://www.python.org/downloads/
    *  jupyter
-         pip install jupyter
+                 pip install jupyter
 
 
