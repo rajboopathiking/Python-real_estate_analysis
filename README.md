@@ -29,7 +29,7 @@ so above information will provide outlier of this project.
    * statistical and analytical thinking is more important. that will help you to do analysis. consider Analysis Focus on problem or goal . for that make a questions , find a answers from data by visualization&analysis etc..
    * so exploratory data analysis completed . if you go futhur like machine learning , follow upcoming steps else move to conclusion or interpretation
    * statistical,analysis and machine learning model building and evaluation and deploy the model
-   * Deployment - as APi, as website, etc...
+   * Deployment - as API, as website, etc...
    * conclusion - data interpretation(finalize thoughts from analysis)
 
 ## requirements:
@@ -47,7 +47,8 @@ so above information will provide outlier of this project.
       #
            pip install -r requirements.txt
  ## project:
-   ![source code](https://github.com/rajboopathiking/Python-real_estate_analysis/blob/master/RealEstateAnalysis.ipynb)
+   ![ml]()#
+   ![source code](/RealEstateAnalysis.ipynb)
 
   try different models and techiques 
   try dashboard 
