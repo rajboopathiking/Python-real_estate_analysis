@@ -40,5 +40,11 @@ so above information will provide outlier of this project.
    * launch jupyter lab
      #
            jupyter lab
-
+   * launch jupyter notebook
+     #
+          jupyter notebook
+   * requirements
+      #
+           pip install -r requirements.txt
+ ## project
 
