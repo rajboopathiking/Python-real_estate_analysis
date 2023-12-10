@@ -51,7 +51,6 @@ so above information will provide outlier of this project.
   * try different models and techiques 
   * try dashboard 
   * try Deployment
-          *** source code - Python-real_estate_analysis.ipynb ***
 
 ## Deployment:
    I know web-development so i going to create end-end website but i suggest you to create api and website using flask and streamlit
