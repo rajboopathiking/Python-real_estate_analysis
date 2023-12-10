@@ -15,10 +15,10 @@ Project From Real-Estate-Market.Project goal to make valuable insights for real-
 
 so above information will provide outlier of this project.
 
-### Goal:
+## Goal:
    our goal understand the need of company.company want to know about some of business which area we want to focus to improve the sales of land. what are missing thing that contribute more to company's growth. so, it common data anlysis let's gets started.
 
-### Workflow:
+## Workflow:
    let's start
           
    * first we need data for any data science and analyst project. so, first step to collect data. in our case, data easily available as csv format. you will see that in my repository. so we dont want to collect from database using sql,mongodb etc,or webscraping using selenium, beautifulsoup, or Api or opensources or companies websites...
@@ -31,8 +31,8 @@ so above information will provide outlier of this project.
    * Deployment - as APi, as website, etc...
    * conclusion - data interpretation(finalize thoughts from analysis)
 
-### requirements:
-   * install python
+## requirements:
+   * install python - 
            https://www.python.org/downloads/
    *  
 
