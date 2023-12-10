@@ -47,11 +47,11 @@ so above information will provide outlier of this project.
       #
            pip install -r requirements.txt
  ## project:
-   IPynb in Resository. its source-code
    ![ALT TEXT](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
   * try different models and techiques 
   * try dashboard 
-  * try Deployment 
+  * try Deployment
+    *** source code - Python-real_estate_analysis.ipynb ***
 
 ## Deployment:
    I know web-development so i going to create end-end website but i suggest you to create api and website using flask and streamlit
