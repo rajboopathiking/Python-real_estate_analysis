@@ -47,7 +47,27 @@ so above information will provide outlier of this project.
       #
            pip install -r requirements.txt
  ## project:
-   ![source code](#)
+   ![source code](https://github.com/rajboopathiking/Python-real_estate_analysis/blob/master/RealEstateAnalysis.ipynb)
 
   try different models and techiques 
+  try dashboard 
+  try Deployment 
+
+## Deployment:
+   I know web-development so i going to create end-end website but i suggest you to create api and website using flask and streamlit
+   streamlit framework easy to use
+   flask api - also easy if you not able to learn flask. do streamlit
+
+## Conclusion:
+   * create document report mention ur insight and explanation
+   * add deployment link
+   * add api dcumentation
+   * make a presentation - in pdf/ppt/doc format
+   * practice and submit and take it to your client or stackholder
+   * story telling
+   * add others recommentations - ideas about another models etc..
+   * mentioned things are help you so much
+
+## Thinks To Remember:
+   Don't Think Just Do
 
