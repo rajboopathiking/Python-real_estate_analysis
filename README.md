@@ -47,8 +47,8 @@ so above information will provide outlier of this project.
       #
            pip install -r requirements.txt
  ## project:
-   ![ml]()#
-   ![source code](/RealEstateAnalysis.ipynb)
+   ![ml](https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+   ![source code](./RealEstateAnalysis.ipynb)
 
   try different models and techiques 
   try dashboard 
